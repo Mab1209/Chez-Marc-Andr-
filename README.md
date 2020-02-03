@@ -1,5 +1,6 @@
 # Chez-Marc-Andre
 exercice Github en classe
 
-un sous-titre
+##un sous-titre
 **gras**
+_italique_
